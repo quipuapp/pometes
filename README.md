@@ -17,6 +17,11 @@ http://docs.railsbridge.org/installfest/macintosh
 Ubuntu: http://docs.railsbridge.org/installfest/linux
 https://www.ruby-lang.org/en/installation/
 
+## Project setup
+
+In the project folder, run `gem install bundler` and then `bundle
+install`
+
 ## Running the tests
 
 In your console, execute `ruby test/pometes_test.rb`
